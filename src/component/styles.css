@@ -1,0 +1,45 @@
+.field {
+    margin-top: 20px;
+    min-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.field label {
+    padding-right: 10px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.btn button {
+    padding: 10px 15px;
+}
+
+.labelComp div{
+    padding-left: 4px;
+}
+
+.basic-single {
+    width: 300px;
+}
+
+input{
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 0.3rem 0.5rem;
+}
+
+.cervenejInput{
+    border: 3px solid red;
+}
+
+.react-datepicker-wrapper input[type="text"]{
+    /*border: 3px solid red;*/
+}
+.customInput {
+    background-color: black;
+}
